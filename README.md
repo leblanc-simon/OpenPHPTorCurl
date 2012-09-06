@@ -19,6 +19,14 @@ if ($browser->post() === false) {
 }
 ```
 
+# Todo
+
+* allow to use cookies
+* allow to use custom HTTP method
+* check if Tor run
+* method to check your IP address
+* SSL support
+
 # Caution
 
 Tor must run when you call script
